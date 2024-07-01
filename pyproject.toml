@@ -1,0 +1,5 @@
+[project]
+name = "algolympiads"
+version = "2024.07.01.01"
+readme = {file = "README.txt", content-type = "text/markdown"}
+license = {file = "LICENSE"}
